@@ -1,12 +1,12 @@
 @font-face {
-    font-family: 'Determination Mono Web';
+    font-family: 'Determination Sans Web';
     src: url('assets/fonts/DTSansWeb.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 body {
-    font-family: 'Determination Mono Web', sans-serif;
+    font-family: 'Determination Sans Web', sans-serif;
     color: #ffffff;
     background-color: #23272a;
 };
